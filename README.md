@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <h1>Welcome to faith develops and here is simple stuff you could know about me : i am a flutter and web developer and i aim to be a flutter expert:)</h1>
+    <h1>Welcome to faith develops and here are some simple stuff you could know about me :</h1>
+    <h2>  i am a flutter and web developer and i aim to be a flutter expert:)   </h2>
+    <h3> i like to draw </h3>
+    <h4> i am an out of the box thinker </h4>
 </head>
 <body>
 <h1>This is  a simple webpage to show for my flutter packages</h1>
