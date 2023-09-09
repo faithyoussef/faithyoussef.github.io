@@ -7,6 +7,8 @@
     <h2>  i am a flutter and web developer and i aim to be a flutter expert:)   </h2>
     <h3> i like to draw </h3>
     <h4> i am an out of the box thinker </h4>
+<meta name="google-site-verification" content="FKsLgcI_gRlv5c-fBo4El3FBgUxtzACEjNjI8b_ENHM" />
+    
 </head>
 <body>
 <h1>This is  a simple webpage to show for my flutter packages</h1>
@@ -19,7 +21,6 @@
 <p>-<a href="https://tonyteaches.tech" target="_blank">Tony Teaches Tech</a></p>
  In case you were interested in art. i also draw: <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-ae99a9eb-fa29-489d-9e09-6bcf7b30a5c0"></div>
- <meta name="google-site-verification" content="FKsLgcI_gRlv5c-fBo4El3FBgUxtzACEjNjI8b_ENHM" />
 
 </body>
 </html>
