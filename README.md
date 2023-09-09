@@ -12,5 +12,8 @@
   <p> all credits to :</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o5g-lUuFgpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>-<a href="https://tonyteaches.tech" target="_blank">Tony Teaches Tech</a></p>
+ In case you were interested in art. i also draw: <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-ae99a9eb-fa29-489d-9e09-6bcf7b30a5c0"></div>
+ 
 </body>
 </html>
