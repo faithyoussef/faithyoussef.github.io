@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
@@ -18,6 +19,7 @@
 <p>-<a href="https://tonyteaches.tech" target="_blank">Tony Teaches Tech</a></p>
  In case you were interested in art. i also draw: <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-ae99a9eb-fa29-489d-9e09-6bcf7b30a5c0"></div>
- 
+ <meta name="google-site-verification" content="FKsLgcI_gRlv5c-fBo4El3FBgUxtzACEjNjI8b_ENHM" />
+
 </body>
 </html>
